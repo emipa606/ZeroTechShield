@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LingRimShield", "LingGame\LingRimShield.csproj", "{CE187F6A-771C-408D-A312-A4D0CA961850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE187F6A-771C-408D-A312-A4D0CA961850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE187F6A-771C-408D-A312-A4D0CA961850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE187F6A-771C-408D-A312-A4D0CA961850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE187F6A-771C-408D-A312-A4D0CA961850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7830e521-8841-4b9a-a8a9-2f98711ab2de}
+	EndGlobalSection
+EndGlobal

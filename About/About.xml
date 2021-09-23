@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>ZeroTech-Shield (Continued)</name>
+  <packageId>Mlie.ZeroTechShield</packageId>
+  <author>LingLuo</author>
+  <url>https://github.com/emipa606/ZeroTechShield</url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Mlie.ZeroTechCore</packageId>
+      <displayName>ZeroTech-Core (Continued)</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2608812829</steamWorkshopUrl>
+      <downloadUrl>https://github.com/emipa606/ZeroTechCore/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Mlie.ZeroTechCore</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of LingLuos mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=2208724306
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/ZeroTechShield][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+ZeroTech-Shield Expansion Pack
+Why, it is obvious that all damage can be blocked, but some people choose to use the main axis of flesh and blood to bear the damage.
+Introduction
+Energy Shield-Candle Shadow/Moon Shadow: A shield equipped with a virtualizer has a chance to directly ignore the damage, attenuate energy according to the number of hits, and absorb energy consumption when receiving melee damage
+Energy Shield-Fluorescence/Daylight: A shield equipped with a permanent shield has a chance to reduce the damage received when the shield is broken. The energy is attenuated according to the number of hits, and the energy consumed when suffering long-range damage
+Energy Shield-Flashing/Transition: A shield equipped with a high-speed energy concentrator, transfers the wearer to a short distance when consuming energy, and attenuates energy according to the number of hits
+Energy Shield-Stone Age/Medieval/Industrial Age/Space Age/Ultra Age: A shield that consumes energy according to the intensity of damage will greatly increase its strength by strengthening each generation
+
+Language: Simplified Chinese
+Sharing Agreement:MIT
+Giturl https://github.com/LingLuo39/ZeroTech/
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]</description>
+</ModMetaData>
