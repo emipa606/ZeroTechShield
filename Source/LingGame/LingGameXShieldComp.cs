@@ -1,9 +1,8 @@
 using Verse;
 
-namespace LingGame
+namespace LingGame;
+
+public class LingGameXShieldComp : ThingComp
 {
-    public class LingGameXShieldComp : ThingComp
-    {
-        public LingGameXShieldCompP Props => (LingGameXShieldCompP)props;
-    }
+    public LingGameXShieldCompP Props => (LingGameXShieldCompP)props;
 }

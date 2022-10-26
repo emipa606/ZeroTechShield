@@ -1,4 +1,7 @@
 # Changelog for ZeroTechShield
 
+1.4.1 - Mod updated for 1.4 and passed autotests
+
+
 1.0.0.0 - First publish
 
