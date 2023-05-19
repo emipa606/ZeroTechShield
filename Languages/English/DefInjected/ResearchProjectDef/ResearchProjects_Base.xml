@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LingPowerShieldI.label>Basic Energy Shield</LingPowerShieldI.label>
+  <LingPowerShieldI.description>The basic energy shield reduces its energy based on the number of times it takes damage, not according to the degree of damage</LingPowerShieldI.description>
+  <LingPowerShieldII.label>Specialized Energy Shield</LingPowerShieldII.label>
+  <LingPowerShieldII.description>The specialized energy shield, which distinguishes between close combat and long-range combat, can better adapt to the corresponding direction, but its resistance in non-targeted directions is even weaker than that of the general model</LingPowerShieldII.description>
+  <LingPowerShieldIII.label>Supports Energy Shield</LingPowerShieldIII.label>
+  <LingPowerShieldIII.description>The Functional Load Enhanced Energy Shield provides a variety of support skills, but using the skill will result in the shield's energy being consumed.</LingPowerShieldIII.description>
+</LanguageData>
