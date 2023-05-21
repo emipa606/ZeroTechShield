@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 护盾 -->
+  <Apparel_Ling_SpaceSkip_I.label>Energy Shield - Flash</Apparel_Ling_SpaceSkip_I.label>
+  <Apparel_Ling_SpaceSkip_I.description>The first game of the Jump Energy Shield has a medium energy cap and a high recovery speed, which leads to extreme instability in the space around the shield in order to increase the recovery speed without limit, and will be randomly teleported for a short distance whenever the energy is consumed</Apparel_Ling_SpaceSkip_I.description>
+  <Apparel_Ling_SpaceSkip_II.label>Energy Shield - Leap</Apparel_Ling_SpaceSkip_II.label>
+  <Apparel_Ling_SpaceSkip_II.description>The second game of the Jump Energy Shield has a medium energy cap and a high recovery speed, which leads to extreme instability in the space around the shield in order to increase the recovery speed indefinitely, and will be randomly teleported over short distances whenever energy is consumed</Apparel_Ling_SpaceSkip_II.description>
+</LanguageData>

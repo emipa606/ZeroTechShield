@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 护盾 -->
+  <Apparel_Ling_Dark_I.label>Energy Shield - Candle Shadow</Apparel_Ling_Dark_I.label>
+  <Apparel_Ling_Dark_I.description>The first game of the Shadow Energy Shield has a low energy cap and low recovery speed, is equipped with a high-efficiency blurr, equipped with a certain chance to directly ignore the opponent's attack, this is a melee specialized shield, which will reduce less energy when taking melee damage</Apparel_Ling_Dark_I.description>
+  <Apparel_Ling_Dark_II.label>Energy Shield - Moon Shadow</Apparel_Ling_Dark_II.label>
+  <Apparel_Ling_Dark_II.description>The second game of the Shadow Energy Shield, with a lower energy cap and slightly lower recovery speed, is equipped with an efficient blurr equipped with a certain chance to directly ignore the opponent's attack, this is a melee special shield, which will reduce less energy when taking melee damage</Apparel_Ling_Dark_II.description>
+</LanguageData>

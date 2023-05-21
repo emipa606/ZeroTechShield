@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 护盾 -->
+  <Apparel_Ling_Light_I.label>Energy Shield - Fluorescence</Apparel_Ling_Light_I.label>
+  <Apparel_Ling_Light_I.description>The first game of the Divine Light Energy Shield has a low energy cap and recovery speed, loaded with a resident energy guardian, which has a chance to reduce the damage taken when the shield is broken, this is a long-range specialized shield, which will reduce less energy when taking long-range damage</Apparel_Ling_Light_I.description>
+  <Apparel_Ling_Light_II.label>Energy Shield - Daylight</Apparel_Ling_Light_II.label>
+  <Apparel_Ling_Light_II.description>The second game of the Divine Light Energy Shield, with a medium energy cap and recovery speed, is loaded with a resident energy guardian that has a chance to reduce the damage taken when the shield is broken, and this is a long-range specialized shield that reduces less energy when taking long-range damage</Apparel_Ling_Light_II.description>
+</LanguageData>
