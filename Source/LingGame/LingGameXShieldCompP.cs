@@ -4,26 +4,25 @@ namespace LingGame;
 
 public class LingGameXShieldCompP : CompProperties
 {
+    public readonly float ChongShengNengLiang = 1f;
+
+    public readonly float MeleeXishouPerHaoNeng = 1f;
+
+    public readonly bool NeedPaoPao = true;
+
+    public readonly string PaoPaoTex = "Other/ShieldBubble";
+
+    public readonly bool RandSkip = false;
+
+    public readonly float RangeXiShouPerHaoNeng = 1f;
+
+    public readonly int RestTime = 30;
+    public readonly float YiCiHaoNengShangXian = float.MaxValue;
     public HediffDef BreakHediff;
 
     public bool CanXinLingChongNeng = false;
 
-    public float ChongShengNengLiang = 1f;
-
-    public float MeleeXishouPerHaoNeng = 1f;
-
-    public bool NeedPaoPao = true;
-
-    public string PaoPaoTex = "Other/ShieldBubble";
-
-    public bool RandSkip = false;
-
-    public float RangeXiShouPerHaoNeng = 1f;
-
-    public int RestTime = 30;
-
     public float ShanBiLv = 0f;
-    public float YiCiHaoNengShangXian = float.MaxValue;
 
     public LingGameXShieldCompP()
     {
