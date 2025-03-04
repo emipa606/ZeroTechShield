@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="ZeroTechShield_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2609654130</linkUrl>
+		<banner>UpdateInfo/ZeroTechShield</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="ZeroTechShield_UpdateInfoBase">
+		<defName>ZeroTechShield_1_5_0</defName>
+		<date>2025/3/4</date>
+		<content>The original version of this mod has been updated, please use it instead. This version will remain, but unlisted and will not be updated further.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+

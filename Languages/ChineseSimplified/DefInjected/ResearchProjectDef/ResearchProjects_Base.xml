@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <LingPowerShieldI.label>基础能源护盾</LingPowerShieldI.label>
   <LingPowerShieldI.description>基础的能源护盾,会根据受到伤害的次数降低能量而非按照伤害的程度降低</LingPowerShieldI.description>

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <LingPowerShieldI.label>Basic Energy Shield</LingPowerShieldI.label>
   <LingPowerShieldI.description>The basic energy shield reduces its energy based on the number of times it takes damage, not according to the degree of damage</LingPowerShieldI.description>

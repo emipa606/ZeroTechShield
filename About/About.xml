@@ -26,7 +26,7 @@
 Update of LingLuos mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2208724306
 
-[img]https://i.imgur.com/pufA0kM.png[/img]
+[img]https://i.imgur.com/CN9Rs5X.png[/img]
 
 [table]
     [tr]
@@ -61,8 +61,8 @@ Giturl https://github.com/LingLuo39/ZeroTech/
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]
+[/list] 
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2609654130][img]https://img.shields.io/github/v/release/emipa606/ZeroTechShield?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.0</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
 </ModMetaData>
